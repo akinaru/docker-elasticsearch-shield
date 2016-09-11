@@ -1,6 +1,7 @@
 FROM elasticsearch:2.3.3
 
-MAINTAINER Thomas Zoratto <thomas.zoratto@gmail.com>
+# Original author is Thomas Zoratto (https://github.com/tzoratto)
+MAINTAINER Bertrand Martel <bmartel.fr@gmail.com>
 
 # The shield plugin configuration must be in ES_HOME/config
 RUN cat config/elasticsearch.yml > /etc/elasticsearch/elasticsearch.yml
