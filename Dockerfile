@@ -14,7 +14,9 @@ RUN plugin install shield
 # Add specific role
 COPY roles.yml /usr/share/elasticsearch/config/shield/
 
+ENV LOGSTASH_USER_NAME logstash
 ENV LOGSTASH_PWD logstash
+ENV KIBANA_ADMIN_USER_NAME kibana4-server
 ENV KIBANA_PWD kibana
 ENV KIBANA_USER_NAME kibana
 ENV KIBANA_USER_PWD kibana
