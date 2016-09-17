@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/akinaru/docker-elasticsearch-shield.svg?branch=master)](https://travis-ci.org/akinaru/docker-elasticsearch-shield)
 [![](https://images.microbadger.com/badges/version/akinaru/docker-elasticsearch-shield.svg)](http://microbadger.com/images/akinaru/docker-elasticsearch-shield)
+[![](https://images.microbadger.com/badges/image/akinaru/docker-elasticsearch-shield.svg)](http://microbadger.com/images/akinaru/docker-elasticsearch-shield)
 
 Forked from https://github.com/tzoratto/docker-elasticsearch-shield
 
