@@ -1,8 +1,8 @@
 # Elasticsearch with Shield
 
-[![Build Status](https://travis-ci.org/akinaru/docker-elasticsearch-shield.svg?branch=master)](https://travis-ci.org/akinaru/docker-elasticsearch-shield)
-[![](https://images.microbadger.com/badges/version/akinaru/docker-elasticsearch-shield.svg)](http://microbadger.com/images/akinaru/docker-elasticsearch-shield)
-[![](https://images.microbadger.com/badges/image/akinaru/docker-elasticsearch-shield.svg)](http://microbadger.com/images/akinaru/docker-elasticsearch-shield)
+[![Build Status](https://travis-ci.org/bertrandmartel/docker-elasticsearch-shield.svg?branch=master)](https://travis-ci.org/bertrandmartel/docker-elasticsearch-shield)
+[![](https://images.microbadger.com/badges/version/bertrandmartel/docker-elasticsearch-shield.svg)](http://microbadger.com/images/bertrandmartel/docker-elasticsearch-shield)
+[![](https://images.microbadger.com/badges/image/bertrandmartel/docker-elasticsearch-shield.svg)](http://microbadger.com/images/bertrandmartel/docker-elasticsearch-shield)
 
 Forked from https://github.com/tzoratto/docker-elasticsearch-shield
 
